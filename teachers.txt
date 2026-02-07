@@ -1,0 +1,5 @@
+T1|Divya mam|IT
+T2|Pushpa mam|IT
+T3|shital mam|IT
+T4|Prajisa mam|IT
+T5|Mandumika mam|IT

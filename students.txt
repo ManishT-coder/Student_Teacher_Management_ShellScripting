@@ -1,0 +1,10 @@
+S1|Manish Tigaya|FYBSC-IT
+S2|Rhaul bohara|FYBSC-IT
+S3|jeel chauhan|FYBSC-IT
+S4|sujal soni|FYBSC-IT
+S5|yuvraj yadav|FYBSC-IT
+S6|manish kurdiya|FYBSC-IT
+S7|Priyanka sighadiya|FYBSC-IT
+S8|anita balotiya|FYBSC-IT
+S9|reshma suwasiya|FYBSC-IT
+S10|Furqan siddiqui|FYBSC-IT
