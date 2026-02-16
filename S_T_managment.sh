@@ -46,7 +46,6 @@ exit_system() {
     echo -e "${Y}🚀 Shutting down System...${NC}"
     sleep 0.5
     echo -e "✨ ${G}Thank you for using STUDENT–TEACHER MANAGEMENT SYSTEM!${NC}"
-    echo -e "🎓 ${C}Credits: Manish, Rahul, Prithviraj, Anuj, Neetu${NC}"
     echo
     echo -e "👋 ${W}Goodbye!${NC}"
     sleep 1.5
